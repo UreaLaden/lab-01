@@ -54,7 +54,9 @@ section.container{
 }
 @media (min-width:768px){
     body{
-       width:100% 
+       width:100%;
+       min-width: 768px; 
+       max-width: 960px;
     }
     #r1{
         height:100px;
