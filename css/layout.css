@@ -1,0 +1,46 @@
+
+section.container{    
+    align-items: center;
+    height:767px;
+    width:500px;
+}
+
+#inner-text{    
+    text-align: center;    
+}
+
+#size{
+    padding-left: 10px;
+}
+#r1{
+    height:75px;
+    width: 480px;
+}
+
+#r2{
+    height: 150px;
+    width:480px;
+}
+
+#r3{
+    height: 125px;
+    width: 480px;
+}
+#r4{    
+    height: 125px;
+    width: 480px;
+}
+
+#r5,#r6,#r7,#r8{
+    float:left;
+    height: 250px;
+    width: 240px;
+}
+
+
+#r9{
+    float:left;
+    height:80px;
+    width: 480px;
+    
+}
