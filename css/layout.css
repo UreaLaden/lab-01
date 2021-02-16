@@ -10,18 +10,19 @@ section.container{
     align-items: center;
 }
 
-#inner-text{    
-    position:relative;
-    text-align: center;
-    top:50%;
-    left: 50%;  
-    transform: translate(-60%, -100%);
+p{
+    justify-content: center;
 }
 
-#size{
-    float:left;
-    padding-left: 10px;
+#inner-text{    
+    text-align: center;
+    position:relative;
+    
+    top:50%;
+    left: 50%;  
+    transform: translate(-50%, -100%);
 }
+
 #r1{
     float:left;
     height:75px;
