@@ -35,7 +35,7 @@ div#r9{
 }
 
 
-@media (max-width:768px){
+@media (min-width:768px){
     div#r9{
         background-color: aqua;
     }
@@ -64,3 +64,34 @@ div#r9{
         background-color: darkgreen;
     }
 }
+/*#region Desktop*/
+@media (min-width:850px){
+    div#r9{
+        background-color: purple;
+    }
+    div#r8{
+        background-color:rgb(31, 192, 57);
+    }
+    div#r7{
+        background-color:rgb(99, 17, 65);
+    }
+    div#r6{
+        background-color:rgb(221, 224, 17);
+    }
+    div#r4{
+        background-color:rgb(156, 19, 60);
+    }
+    div#r5{
+        background-color:rgb(90, 74, 182);
+    }
+    div#r3{
+        background-color:rgb(67, 100, 86);
+    }
+    div#r2{
+        background-color:rgb(39, 119, 139);
+    }
+    div#r1{
+        background-color: rgb(255, 0, 0);
+    }
+}
+/*#endregion*/
